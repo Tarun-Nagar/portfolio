@@ -1,0 +1,39 @@
+.mainHomePage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3em;
+}
+
+.mainHomePage h1{
+    font-size: 4rem;
+}
+
+.name {
+    color: #2978b5;
+}
+.desc{
+    width: 600px;
+}
+.btn1{
+    border-radius: 10px;
+    /* background-color: #4c29b52b; */
+    background-color: aliceblue;
+    border:3px solid black;
+    color: black;
+    padding:6px;
+    font-size: medium;
+    font-weight: 600;
+    margin-top: 500PX;
+    
+}
+
+.btn1:hover{
+  background-color: rgba(250, 155, 66, 0.414);
+}
+a{
+    margin-inline: 5px;
+    text-decoration: none;
+    font-size: large;
+
+}

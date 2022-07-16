@@ -1,0 +1,22 @@
+.btn3:hover {
+    background-color: #114ef764;
+    text-decoration: none ;
+}
+
+.contact{
+    height: 300px;
+    margin-top:50px;
+}
+.contact a{
+    text-decoration: none;
+}
+.btn3{ 
+    border-radius: 10px;
+    /* background-color:white; */
+    background-color: aliceblue;
+    border:2px solid black;
+    color: black;
+    padding:8px;
+    font-size: larger;
+    font-weight: 600;
+}
